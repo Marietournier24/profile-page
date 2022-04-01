@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville&display=swap');
+a {
+	text-decoration: none;
+	color:#F582A7;
+	background-color:rgba(86,187,241,0.5);
+	text-align: center;
+}
+a:hover {
+	background-color: blue;
+}
+h1 {
+	color:#F582A7;
+	text-align:center;
+}
+h2 {
+	color:#F582A7;
+	text-align: center;
+}
+h3 {
+	color:#56BBF1;
+	text-align: center;
+  }
+p { 
+	text-align: center;
+ }
+ li {
+ 	text-align: center;
+ }
+body{font-family: 'Bebas Neue', cursive;
+     font-size: 30px;
+     background-color:#FFDDEE;
+ }
+img{ 
+	width: 200px;
+	height:200px ;
+	border-radius: 50%;
+	margin: auto;
+}
+
+#presentation {
+	text-align: center;
+	border: 10px solid #4D77FF;
+	margin: auto;
+	width: 900px;
+	height: 900px;
+	border-radius: 70px;
+}
+#competences{
+	text-align: center;
+	border: 10px solid #4D77FF;
+	margin: auto;
+	width: 900px;
+	height: 650px;
+	border-radius: 70px;
+
+}
+#formation {
+	text-align: center;
+	border: 10px solid #4D77FF;
+	margin: auto;
+	width: 900px;
+	height: 480px;
+	border-radius: 70px;
+}
+#experience {
+	text-align: center;
+	border: 10px solid #4D77FF;
+	margin: auto;
+	width: 900px;
+	height: 480px;
+	border-radius: 70px;
+}
+#interet{
+	text-align: center;
+	border: 10px solid #4D77FF;
+	margin: auto;
+	width: 900px;
+	height: 350px;
+	border-radius: 70px;
+}
+#reseaux {
+	text-align: center;
+	border: 10px solid #4D77FF;
+	margin: auto;
+	width: 900px;
+	height: 350px;
+	border-radius: 70px;
+}
+div {
+	margin-bottom: 60px !important;
+}
+ul {
+	list-style: none;
+}
+#FB-Twitter {
+	justify-content: center;
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+}
+#Insta-Linkedin {
+	list-style:  none;
+	display: flex;
+	justify-content:  center;
+	justify-content: space-around ;
+}
